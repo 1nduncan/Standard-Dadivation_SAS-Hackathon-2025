@@ -52,7 +52,7 @@ Each dataset represents one slice of the validity construct:
 - /docs/ # workflow diagrams, additional documentation
 - README.md # project overview
 
-The Standard Dadivation Team:
+## The Standard Dadivation Team:
 - Johnathan Burpo
 - Noah Duncan
 - James Faulk
