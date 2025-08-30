@@ -46,7 +46,6 @@ Each dataset represents one slice of the validity construct:
 ---
 
 ## Repository Structure (in progress)
-- /data/ # raw datasets
 - /models/ # trained models and checkpoints
 - /results/ # metrics, plots, confusion matrices
 - /docs/ # workflow diagrams, additional documentation
